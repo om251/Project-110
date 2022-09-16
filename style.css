@@ -1,0 +1,30 @@
+body{
+    background-image: url("hb.jpg");
+    
+    background-size: cover;
+    color: white;
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+
+}
+
+h2{
+    border:solid 2px;
+    
+    
+}
+
+#ee{
+    background: none;
+    border: 1px solid white;
+    border-radius: 10px;
+    font-size: 15px;
+  }
+
+  #camera , #result
+{
+  border: 2px solid rgba(255, 255, 255, 0.637);
+  border-radius: 10px;
+  width: 350px;
+  height: 300px; 
+
+}
